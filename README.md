@@ -14,9 +14,9 @@ I'm seeking help with various development knowledge with developing activities. 
 
 
 ## Language and Framework:<br>
-React, NodeJS, TailWind CSS, jQuery, Java, Java Spring Boot, C language <br><br>
+React, TypeScript, NodeJS, Redux, TailWind CSS, jQuery, Java, Java Spring Boot, C language <br><br>
 <b>Learning</b>
-TypeScript, Redux, Next.js, Python, C++ language
+Next.js, Python, C++ language
 <br> <br>
 
       
@@ -28,3 +28,4 @@ AWS, VScode, git, GitHub, GitHub Pages, Figma, Notion <br>
 Linux, Docker, MongoDB,  Netlify, Postman  <br>
 
 <br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunnyvrvr%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>               
