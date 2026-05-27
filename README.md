@@ -2,7 +2,7 @@
 <br>
 
 ✏️ Introduce
-Hello, I'm Sunjin Jung, a Full-stack web developer! 😄 <br><br>
+Hello, I'm Sienna Jung, a Full-stack web developer! 😄 <br><br>
 
 I am focusing on JavaScript as my main language and learning various frameworks. 💻 <br>
 I enjoy development itself, regardless of whether it's backend or frontend. 🏆 <br>
