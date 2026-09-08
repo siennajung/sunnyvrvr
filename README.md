@@ -25,7 +25,7 @@ Next.js, Python, C++ language
 AWS, VScode, git, GitHub, GitHub Pages, Figma, Notion <br>
       
 <b>Learning</b> 
-Linux, Docker, MongoDB,  Netlify, Postman  <br>
+Linux, Docker, MongoDB, Netlify, Postman  <br>
 
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunnyvrvr%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>               
+        
